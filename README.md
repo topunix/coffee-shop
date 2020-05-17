@@ -1,6 +1,6 @@
 # Coffee Shop Full Stack
 
-![coffee-shop](https://user-images.githubusercontent.com/833824/82158105-c13e1400-9853-11ea-84f8-f10c2a1208d9.jpg)
+![coffee-shop](https://user-images.githubusercontent.com/833824/82158436-d0be5c80-9855-11ea-9122-8ec4d8436aa5.jpg)
 ---------------------
 Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.
 
