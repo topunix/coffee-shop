@@ -1,9 +1,7 @@
-## Coffee Shop Full Stack
+# Coffee Shop Full Stack
 
 ![coffee-shop](https://user-images.githubusercontent.com/833824/82158105-c13e1400-9853-11ea-84f8-f10c2a1208d9.jpg)
-
 ---------------------
-
 Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.
 
 You have been called on to demonstrate your newly learned skills to create a full stack drink menu application. The application must:
