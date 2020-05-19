@@ -16,7 +16,7 @@ The full stack drink menu application must:
 
 ### Backend
 
-The `./backend` directory contains a SQLAlchemy module and a Flask server with the required endpoints and Auth0 for authentication.
+The `./backend` directory contains a SQLAlchemy module and a Flask server with the required endpoints and Auth0 integration for authentication.
 
 [View the README.md within ./backend for more details.](./backend/README.md)
 
