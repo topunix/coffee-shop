@@ -43,9 +43,9 @@ ionic serve
 >_tip_: Do not use **ionic serve**  in production. Instead, build Ionic into a build artifact for your desired platforms.
 [Checkout the Ionic docs to learn more](https://ionicframework.com/docs/cli/commands/build)
 
-## Key Software Design
+## Key Software 
 
-The frontend framework is a bit beefy; here are the two areas to focus your study.
+The frontend framework is a bit beefy; here are the two areas to focus on.
 
 ### Authentication
 
