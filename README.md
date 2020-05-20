@@ -4,7 +4,6 @@
 
 ### Introduction
 
----------------------
 Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. 
 
 The full stack drink menu application must:
