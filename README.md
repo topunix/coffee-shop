@@ -1,6 +1,9 @@
 # Coffee Shop Full Stack
 
 ![coffee-shop](https://user-images.githubusercontent.com/833824/82158436-d0be5c80-9855-11ea-9122-8ec4d8436aa5.jpg)
+
+### Introduction
+
 ---------------------
 Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. 
 
