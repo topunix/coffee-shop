@@ -4,15 +4,14 @@
 
 ## Introduction
 
-Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. 
+**Udacafe** is a modern, digitally enabled cafe designed for students to order drinks, socialize, and study effectively.  
 
-The full stack drink menu application must:
+This drink menu application offers the following features:  
 
-1) Display graphics representing the ratios of ingredients in each drink.
-2) Allow public users to view drink names and graphics.
-3) Allow the shop baristas to see the recipe information.
-4) Allow the shop managers to create new drinks and edit existing drinks.
-
+1. **Visual Ingredient Display**: Graphics showcase the ingredient ratios of each drink, providing a clear visual representation.  
+2. **Public Access**: Guests can view drink names and their corresponding graphics without needing special permissions.  
+3. **Barista View**: Baristas have access to detailed drink recipes to ensure consistent preparation.  
+4. **Manager Controls**: Managers can create new drinks and edit existing ones, allowing flexibility in menu management. 
 
 ## About the Stack
 
