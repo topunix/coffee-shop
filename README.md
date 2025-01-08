@@ -1,4 +1,4 @@
-# Coffee Shop Full Stack
+# Full Stack Coffee Shop 
 
 ![coffee-shop](https://user-images.githubusercontent.com/833824/82158436-d0be5c80-9855-11ea-9122-8ec4d8436aa5.jpg)
 
